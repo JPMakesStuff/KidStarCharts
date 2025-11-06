@@ -1,11 +1,13 @@
 # KidStarCharts
-An easy way to gamify good behavior
 
 Requires IIS and ASP to be installed
-Default subdirectory is C:\inetpub\home\kidstarcharts where 'home' is the IIS site root and 'kidstarcharts' is the where all the files should live
-IIS Read/Write permission is required C:\inetpub\home\kidstarcharts\data
 
-No DB, simple text files for tracking
+Default subdirectory is C:\inetpub\home\kidstarcharts
+... where 'home' is the IIS site root and 'kidstarcharts' is the where all the files should live
+
+IIS Read/Write permission required in C:\inetpub\home\kidstarcharts\data
+
+No database required, simple text files for tracking
 
 # License
 
